@@ -40,7 +40,7 @@
 {
 	[super viewDidLoad];
 
-	self.title = @"iFlooder";
+	self.title = @"Spamer";
 
 	_mode = 0;
 
